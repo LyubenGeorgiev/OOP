@@ -1,1 +1,3 @@
-basi qkoto
+basi qkoto 
+
+nqma problemi
